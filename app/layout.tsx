@@ -1,6 +1,4 @@
 import '~/src/styles/index.css'
-import 'scroll-behavior-polyfill'
-import 'focus-visible'
 import type { Metadata } from 'next'
 import { type ReactNode, Suspense } from 'react'
 

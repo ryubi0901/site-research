@@ -14,9 +14,7 @@ const config = {
   },
   basePath,
   trailingSlash: true,
-  experimental: {
-    typedRoutes: true,
-  },
+  typedRoutes: true,
 }
 
 module.exports = withBoundleAnalyzer(config)
